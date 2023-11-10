@@ -257,6 +257,20 @@ margin-left: 80px;
 margin-top: -560px;
 }
 
+.line2 {background:#1f6f78;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #096c47, #096c47);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #096c47,#096c47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width:4px;
+  border-radius:8px;
+  height:1210px;
+  margin-left: 80px;
+  margin-top: -560px;
+  }
+
+
+
+
+
 	* {
   box-sizing: border-box;
 }
