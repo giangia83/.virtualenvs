@@ -15,7 +15,7 @@ overflow:hidden;
 .header{
 
 
-  background-image:url("invisible-png.png");
+  background-color: rgb(0, 0, 0);
    
     top: 0;
     left: 0;
@@ -27,7 +27,7 @@ overflow:hidden;
 
     text-align:left;
     padding:30px;
-    color:color;
+    
     font-size:50px;
      font-family: 'Source Sans Pro', sans-serif;;
  font-weight: 300;
@@ -38,7 +38,7 @@ overflow:hidden;
 
 
 
-background-image:url("mineback2.png");
+background-image: url("149689-McLaren-car-vehicle-digital-art-McLaren-720S-dark-monochrome-black-simple-background-minimalism-black-background.jpg") ;
 overflow: hidden;
 background-size: cover;
 width: 100%;
@@ -140,7 +140,7 @@ body{
 
 .header {
   overflow: hidden;
-  background-color: #0d1117;
+  background-color: rgb(0, 0, 0);
   padding: 20px 40px;
   letter-spacing: -0.03em;
 }
@@ -243,9 +243,23 @@ img {
 margin-left:-10px;
   border-radius: 4px;
   padding: 5px;
-  width: 50px;
-  margin-top:-35px;
+  width: 7rem;
+  margin-top: -23px  ;
+ 
+  
 }
+#forza2 {
+
+  margin-left:300px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 90rem;
+    margin-top: -100px  ;
+   
+    
+  }
+
+
 
 .line {background:#1f6f78;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to bottom, #096c47, #0d1117);  /* Chrome 10-25, Safari 5.1-6 */
